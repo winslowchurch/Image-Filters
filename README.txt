@@ -1,4 +1,4 @@
-CS131 FINAL PROJECT
+FINAL PROJECT
 Various Image Filters, Winslow Church, Fall 2022
 
 To test the filters on your own image, upload the picture to images
